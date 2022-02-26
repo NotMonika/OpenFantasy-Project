@@ -1,0 +1,8 @@
+/boot.img
+/kernel.bim
+/kernel.gas
+/kernel.hrb
+/kernel.lst
+/kernel.map
+/kernel.obj
+/loader
